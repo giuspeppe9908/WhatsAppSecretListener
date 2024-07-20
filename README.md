@@ -3,14 +3,8 @@
 Secret Listener for Whatsapp
 
 ## Getting Started
+Questo progetto è stato scritto in Flutter per permettere agli utenti iOS/Android di provarlo.
+Lo scopo di questa applicazione è di ascoltare in modo "segreto" una registrazione di WhatsApp senza che il mittente ne sia al corrente.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Miglioramenti a seguire
+Sicuramente seguiranno miglioramenti oppure clona il repository/dammi delle idee!
