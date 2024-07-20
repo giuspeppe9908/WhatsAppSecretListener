@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                Image.network('https://static.vecteezy.com/system/resources/previews/023/986/631/original/whatsapp-logo-whatsapp-logo-transparent-whatsapp-icon-transparent-free-free-png.png', height:200, width:200),
+                Image.asset('/Users/yusef/WhatsAppSecretListener/SecretListener/assets/hearing.png', height:200, width:200),
                 const Text(
                   'Secret Listener è l\'app che ti permette di ascoltare l\'ultimo vocale su WhatsApp',
                   textAlign: TextAlign.center,
