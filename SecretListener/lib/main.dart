@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:audioplayers/audioplayers.dart';
@@ -37,6 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   double playBackRate = 1;
   IconData icon = Icons.play_arrow;
   bool isPlay = false;
+  String? latestAudio;
 
   @override
   void initState() {
@@ -61,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                Image.asset('/Users/yusef/WhatsAppSecretListener/SecretListener/assets/hearing.png', height:200, width:200),
+                Image.asset('assets/hearing.png', height:200, width:200),
                 const Text(
                   'Secret Listener è l\'app che ti permette di ascoltare l\'ultimo vocale su WhatsApp',
                   textAlign: TextAlign.center,
@@ -87,7 +90,12 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void filePicker() async{
-    result = await FilePicker.platform.pickFiles();
+    result = await FilePicker.platform.pickFiles(
+        initialDirectory: '/',
+        type: FileType.custom,
+          allowedExtensions: ['opus', 'ogg', 'mp3', 'm4a'],
+          allowMultiple: false,
+        );
     setState(() {});
   }
 

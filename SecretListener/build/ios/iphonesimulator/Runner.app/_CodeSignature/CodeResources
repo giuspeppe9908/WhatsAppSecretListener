@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		TSIgCfAkhTDMbqpH/JoNRA8hQ+U=
+		bVuWiNaxATDlfwS2NREWpJHR6xY=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		wzuLtOEwxM59Eh39R4KVCHne5I8=
+		6yUiEFrxYz4Vpco0eLnf2A2mJyc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		7iEDM/o8xKkibsjSMXi2qquXloI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		3HVZMnpuaOMLt2d1eBTGeV+5Yus=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -71,6 +71,10 @@
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		NY8TTTlo2P+Jhs/+ahDofyNf3qs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/hearing.png</key>
+		<data>
+		e5sFYC1eC0k35ZPNOG1YfD0MOTU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -82,7 +86,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		BwCeQY3U/oHuQOZdjRydh9wwaAU=
+		SD3xIDm/7o5FKkqwXEd3Q6zz1Pg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -616,7 +620,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HPYnFu4msUnPb0U0SocLjgmjstDDFauRYqzkhs0PUKA=
+			zkiaxetuHAr49x/D+vJ+wUvH1zK/1wnNdf8LEeqv5fI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -630,21 +634,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1URqAursniAHzZbQsNWFOHJMAlgadipvXpwyqyZHCmc=
+			srNjEh6kHXgMUI3tZ2DxgT1AQYELD5xyb/DktAY64y0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			TkNeZbEk+Snz1Ks/35DgbYFFoqQodf6fUazfMe8ei8U=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			JG01wdvlk3jkYVWKpZlDGbL+PMkX+6geqIrLhIWCGqY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -659,6 +663,13 @@
 			<key>hash2</key>
 			<data>
 			Ic3cVNzuyEyAZSVECw3W6AOUvdcUaVKKu6YWHLTCqYw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/hearing.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0JYEwKyqGwc5iJMe+D2k/MUSFXlvu8beO8K17Msu0uE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -679,7 +690,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R4KcnFnqtOy0Ec/GCCUlckBhNokxnkauO9BO+qMgtlA=
+			xYxrArIF6bRVdadYHEGnN4B2HFuZK++2aLRRtBa96KI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
